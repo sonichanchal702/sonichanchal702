@@ -43,7 +43,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/chanchal-soni-7528b9317)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chanchal-soni-7528b9317)
 - 📧 Email: sonichanchal702@gmail.com
 ---
 
