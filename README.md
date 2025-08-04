@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Chanchal Soni
 
-🚀 A passionate **BCA student & Full Stack Developer in the making**, dedicated to building real-world solutions through code and creativity.  
+🚀 Aspiring Full Stack Developer in the making**, dedicated to building real-world solutions through code and creativity.  
 🎯 Currently focused on mastering **DSA in Java**, **MERN Stack**, and **Cloud Technologies**.
 ---
 
 ## 🧠 About Me
 - 💻 I love solving problems through **Data Structures and Algorithms (Java)**
-- 🌐 Currently developing **web apps** using HTML, CSS, JavaScript, and PHP
+- 🌐 Currently developing **web apps** using MERN technology.
 - 🧩 Passionate about creating platforms that solve **real-world problems**
 - 🎯 Goal: Solve real-world problems and contribute to impactful projects
 - 📈 Always learning something new — from **Cloud Computing ** to **system design**
