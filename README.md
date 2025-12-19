@@ -1,45 +1,70 @@
-# 👋 Hello, I'm Chanchal Soni
+👋 Hi, I’m Chanchal Soni
 
-🚀 Aspiring Full Stack Developer in the making**, dedicated to building real-world solutions through code and creativity.  
-🎯 Currently focused on mastering **DSA in Java**, **MERN Stack**, and **Cloud Technologies**.
----
+🚀 Aspiring Full-Stack Developer focused on building scalable, real-world applications with clean architecture and impact-driven design.
+🎯 Currently strengthening my foundation in DSA (Java), MERN Stack, and Cloud-Native Development.
 
-## 🧠 About Me
-- 💻 I love solving problems through **Data Structures and Algorithms (Java)**
-- 🌐 Currently developing **web apps** using MERN technology.
-- 🧩 Passionate about creating platforms that solve **real-world problems**
-- 🎯 Goal: Solve real-world problems and contribute to impactful projects
-- 📈 Always learning something new — from **Cloud Computing ** to **system design**
----
+✨ Developer Snapshot
+
+💻 Strong interest in Data Structures & Algorithms (Java) with a problem-solving mindset
+🌐 Building full-stack web applications using the MERN ecosystem
+🧠 Curious about system design, backend scalability, and cloud fundamentals
+🛠️ Passionate about converting ideas into practical, user-centric solutions
+📈 Growth-oriented learner with a long-term vision of contributing to high-impact products
 
 ## 🔧 Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🧰 Tech Stack & Tools
+🚀 Languages & Fundamentals
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,html,css,php&theme=dark" /> </p>
+🎨 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" /> </p>
+⚙️ Backend & Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /> </p>
+🛠️ Tools & Workflow
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /> </p>
+
 ---
 
 ## 📂 Featured Projects
 
-### 🔒 [Image Steganography in Python](https://github.com/sonichanchal702/Steganography_project)
-> A Python tool to hide secret messages inside images using the LSB technique.
+🌍  [ Wanderlust — Rental & Booking Platform (MERN)](https://github.com/sonichanchal702/Wanderlust-Airbnb)
+
+A full-stack Airbnb-inspired platform that enables travellers to explore and book accommodations while allowing hosts to list and manage properties seamlessly. Built with the MERN stack, the project focuses on secure authentication, scalable architecture, and real-world booking workflows, with future scope for payments, maps, and AI-based recommendations.
+Enables travellers to explore, compare, and book accommodations seamlessly
+
+Allows hosts to list, manage, and monetise properties efficiently.
+Implemented secure user authentication & authorisation.
+Designed scalable backend APIs and structured database models.
+Integrated booking workflows, reviews, and ratings for trust and transparency.
+Developed a responsive, user-friendly UI focused on real-world usability.
+Cloud-ready architecture with scope for payments, maps, and AI recommendations.
+
+🔐 [Image Steganography (Python)](https://github.com/sonichanchal702/Steganography_project)
+
+A Python-based utility that securely embeds secret messages within images using the Least Significant Bit (LSB) technique.
+
+Key Takeaways:
+
+Image processing fundamentals
+Data hiding & security concepts
+Algorithmic thinking in Python
+
 
 ### 🍱 [Food Waste Reduction Platform (HTML/CSS/PHP)](https://github.com/sonichanchal702/FoodWasteReduction_Project)
-> Connects food donors with NGOs to reduce waste and feed the needy.
+
+A web platform that bridges food donors and NGOs to minimize food waste and support social impact initiatives.
+
+Tech Stack: HTML · CSS · PHP · MySQL
+Impact: Sustainability, waste reduction, community support
 
 ### 🧠 [Simon Says Game (JavaScript Project)](https://github.com/sonichanchal702/SimonButtonGame_Project)
-> A fun memory-based game built using DOM concepts in JS.
----
+
+An interactive memory game built using core JavaScript and DOM manipulation.
+
+What I practised:
+Event handling
+Game logic
+UI state management
 
 ## 📫 Let's Connect
 
@@ -47,9 +72,15 @@
 - 📧 Email: sonichanchal702@gmail.com
 ---
 
-## 🧩 Quote That Drives Me
-> *“Strive for progress, not perfection. Every line of code brings me closer to impact.”*
+🌱 Current Focus
+Deepening DSA patterns & problem-solving in Java
+Building end-to-end MERN projects
+Exploring backend architecture & cloud basics
 
----
+💡 Personal Philosophy
+Progress compounds. Every problem solved and every project shipped moves me closer to building meaningful software.
 
-_Thanks for stopping by! Looking forward to collaborating and building something impactful!_
+⭐ If you find my work interesting, feel free to explore the repositories or reach out.
+Always open to collaboration, learning, and building impactful tech.
+
+
