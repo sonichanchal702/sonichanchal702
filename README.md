@@ -11,9 +11,7 @@
 🛠️ Passionate about converting ideas into practical, user-centric solutions
 📈 Growth-oriented learner with a long-term vision of contributing to high-impact products
 
-## 🔧 Tech Stack & Tools
-
-🧰 Tech Stack & Tools
+🔧 Tech Stack & Tools
 🚀 Languages & Fundamentals
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,js,html,css,php&theme=dark" /> </p>
 🎨 Frontend
@@ -73,11 +71,13 @@ UI state management
 ---
 
 🌱 Current Focus
+
 Deepening DSA patterns & problem-solving in Java
 Building end-to-end MERN projects
 Exploring backend architecture & cloud basics
 
 💡 Personal Philosophy
+
 Progress compounds. Every problem solved and every project shipped moves me closer to building meaningful software.
 
 ⭐ If you find my work interesting, feel free to explore the repositories or reach out.
