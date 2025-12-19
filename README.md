@@ -1,4 +1,4 @@
-👋 Hi, I’m Chanchal Soni
+## 👋 Hi, I’m Chanchal Soni
 
 🚀 Aspiring Full-Stack Developer focused on building scalable, real-world applications with clean architecture and impact-driven design.
 🎯 Currently strengthening my foundation in DSA (Java), MERN Stack, and Cloud-Native Development.
