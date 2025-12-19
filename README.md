@@ -25,7 +25,7 @@
 
 ## 📂 Featured Projects
 
-🌍  [ Wanderlust — Rental & Booking Platform (MERN)](https://github.com/sonichanchal702/Wanderlust-Airbnb)
+### 🌍 [ Wanderlust — Rental & Booking Platform (MERN)](https://github.com/sonichanchal702/Wanderlust-Airbnb)
 
 A full-stack Airbnb-inspired platform that enables travellers to explore and book accommodations while allowing hosts to list and manage properties seamlessly. Built with the MERN stack, the project focuses on secure authentication, scalable architecture, and real-world booking workflows, with future scope for payments, maps, and AI-based recommendations.
 Enables travellers to explore, compare, and book accommodations seamlessly
@@ -37,7 +37,7 @@ Integrated booking workflows, reviews, and ratings for trust and transparency.
 Developed a responsive, user-friendly UI focused on real-world usability.
 Cloud-ready architecture with scope for payments, maps, and AI recommendations.
 
-🔐 [Image Steganography (Python)](https://github.com/sonichanchal702/Steganography_project)
+### 🔐 [Image Steganography (Python)](https://github.com/sonichanchal702/Steganography_project)
 
 A Python-based utility that securely embeds secret messages within images using the Least Significant Bit (LSB) technique.
 
