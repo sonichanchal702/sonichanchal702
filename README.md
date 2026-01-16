@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Chanchal Soni
 
 🚀 Aspiring Full-Stack Developer focused on building scalable, real-world applications with clean architecture and impact-driven design.
-🎯 Currently strengthening my foundation in DSA (Java), MERN Stack, and Cloud-Native Development.
+Backend Developer with hands-on experience in MERN stack backend development, building RESTful APIs, JWT-based authentication, and scalable data models using Node.js, Express.js, and MongoDB. Strong foundations in Core Java, OOPs, SQL, and Data Structures, with a problem-solving and architecture-focused mindset.
 
 ✨ Developer Snapshot
 
@@ -9,7 +9,6 @@
 🌐 Building full-stack web applications using the MERN ecosystem
 🧠 Curious about system design, backend scalability, and cloud fundamentals
 🛠️ Passionate about converting ideas into practical, user-centric solutions
-📈 Growth-oriented learner with a long-term vision of contributing to high-impact products
 
 🔧 Tech Stack & Tools
 🚀 Languages & Fundamentals
@@ -26,16 +25,14 @@
 ## 📂 Featured Projects
 
 ### 🌍 [ Wanderlust — Rental & Booking Platform (MERN)](https://github.com/sonichanchal702/Wanderlust-Airbnb)
+Node.js, Express.js, MongoDB | Backend Development
 
-A full-stack Airbnb-inspired platform that enables travellers to explore and book accommodations while allowing hosts to list and manage properties seamlessly. Built with the MERN stack, the project focuses on secure authentication, scalable architecture, and real-world booking workflows, with future scope for payments, maps, and AI-based recommendations.
-Enables travellers to explore, compare, and book accommodations seamlessly
+Built 15+ REST APIs for property listings, bookings, reviews, and user management using MVC architecture.
+Implemented secure authentication and authorization using JWT and encrypted password storage.
+Designed 3+ interconnected database schemas (users, listings, bookings) for scalable operations.
+Optimized database performance using indexes and schema design, improving query efficiency.
+Tested and validated APIs using Postman, ensuring reliable backend integration readiness.
 
-Allows hosts to list, manage, and monetise properties efficiently.
-Implemented secure user authentication & authorisation.
-Designed scalable backend APIs and structured database models.
-Integrated booking workflows, reviews, and ratings for trust and transparency.
-Developed a responsive, user-friendly UI focused on real-world usability.
-Cloud-ready architecture with scope for payments, maps, and AI recommendations.
 
 ### 🔐 [Image Steganography (Python)](https://github.com/sonichanchal702/Steganography_project)
 
@@ -48,15 +45,17 @@ Data hiding & security concepts
 Algorithmic thinking in Python
 
 
-### 🍱 [Food Waste Reduction Platform (HTML/CSS/PHP)](https://github.com/sonichanchal702/FoodWasteReduction_Project)
+### 🍱 [Track – Project & Team Management Platform](https://github.com/sonichanchal702/track)
+Node.js, Express.js, MongoDB | Backend-Focused Full Stack
 
-A web platform that bridges food donors and NGOs to minimize food waste and support social impact initiatives.
-
-Tech Stack: HTML · CSS · PHP · MySQL
-Impact: Sustainability, waste reduction, community support
+Developed 12+ RESTful APIs to manage projects, teams, freelancers, and task workflows.
+Implemented JWT-based authentication and role-based authorization, securing all protected routes.
+Designed end-to-end project lifecycle management including creation, assignment, progress tracking, and closure.
+Modeled 4+ MongoDB collections with relational references for scalable data handling.
+Performed 100% API validation using Postman, ensuring consistent request/response and error handling.
+Collaborated via GitHub feature branches and pull requests, following industry-standard backend workflows.
 
 ### 🧠 [Simon Says Game (JavaScript Project)](https://github.com/sonichanchal702/SimonButtonGame_Project)
-
 An interactive memory game built using core JavaScript and DOM manipulation.
 
 What I practised:
