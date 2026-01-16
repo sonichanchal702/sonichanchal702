@@ -28,9 +28,13 @@ Backend Developer with hands-on experience in MERN stack backend development, bu
 Node.js, Express.js, MongoDB | Backend Development
 
 Built 15+ REST APIs for property listings, bookings, reviews, and user management using MVC architecture.
+
 Implemented secure authentication and authorization using JWT and encrypted password storage.
+
 Designed 3+ interconnected database schemas (users, listings, bookings) for scalable operations.
+
 Optimized database performance using indexes and schema design, improving query efficiency.
+
 Tested and validated APIs using Postman, ensuring reliable backend integration readiness.
 
 
@@ -41,7 +45,9 @@ A Python-based utility that securely embeds secret messages within images using 
 Key Takeaways:
 
 Image processing fundamentals
+
 Data hiding & security concepts
+
 Algorithmic thinking in Python
 
 
@@ -49,10 +55,15 @@ Algorithmic thinking in Python
 Node.js, Express.js, MongoDB | Backend-Focused Full Stack
 
 Developed 12+ RESTful APIs to manage projects, teams, freelancers, and task workflows.
+
 Implemented JWT-based authentication and role-based authorization, securing all protected routes.
+
 Designed end-to-end project lifecycle management including creation, assignment, progress tracking, and closure.
+
 Modeled 4+ MongoDB collections with relational references for scalable data handling.
+
 Performed 100% API validation using Postman, ensuring consistent request/response and error handling.
+
 Collaborated via GitHub feature branches and pull requests, following industry-standard backend workflows.
 
 ### 🧠 [Simon Says Game (JavaScript Project)](https://github.com/sonichanchal702/SimonButtonGame_Project)
