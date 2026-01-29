@@ -1,7 +1,11 @@
 ## 👋 Hi, I’m Chanchal Soni
 
-🚀 Aspiring Full-Stack Developer focused on building scalable, real-world applications with clean architecture and impact-driven design.
-Backend Developer with hands-on experience in MERN stack backend development, building RESTful APIs, JWT-based authentication, and scalable data models using Node.js, Express.js, and MongoDB. Strong foundations in Core Java, OOPs, SQL, and Data Structures, with a problem-solving and architecture-focused mindset.
+ Aspiring **Software Engineer** with hands-on experience in **MERN stack development** and **cloud fundamentals**. Skilled in building **scalable web applications** using **MongoDB, Express.js, React, and Node.js**.
+
+🚀 Familiar with **cloud infrastructure**, **deployment basics**, and **RESTful API development**.  
+🎓 Gained practical exposure through virtual internships at **Infosys Springboard** and **Edunet Foundation**.  
+📈 Continuously focused on **clean code**, **performance**, and **real-world problem solving**.
+
 
 ✨ Developer Snapshot
 
