@@ -9,10 +9,10 @@
 
 ✨ Developer Snapshot
 
-💻 Strong interest in Data Structures & Algorithms (Java) with a problem-solving mindset
-🌐 Building full-stack web applications using the MERN ecosystem
-🧠 Curious about system design, backend scalability, and cloud fundamentals
-🛠️ Passionate about converting ideas into practical, user-centric solutions
+💻 Grinding in **Data Structures & Algorithms** (Java) to enhance Problem Solving skill.
+🌐 Building full-stack web applications using the MERN ecosystem.
+🧠 Curious about system design, **backend scalability**, and **cloud fundamentals**.
+🛠️ Passionate about converting ideas into practical, user-centric solutions.
 
 🔧 Tech Stack & Tools
 🚀 Languages & Fundamentals
