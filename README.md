@@ -133,21 +133,21 @@ Architected multi-tenant data isolation with RBAC, distributed async invoice pro
 <br/>
 
 <details>
-<summary>&nbsp;&nbsp;<b>◫ &nbsp;DevConnect — Developer Matching Platform</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/sonichanchal702/devTinder-MERN"><img src="https://img.shields.io/badge/View%20Repo-1F2937?style=flat-square&logo=github&logoColor=E5E7EB" /></a></summary>
+<summary>&nbsp;&nbsp;<b>◫ &nbsp;Vibe — Developer Matching Platform</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/sonichanchal702/devTinder-MERN"><img src="https://img.shields.io/badge/View%20Repo-1F2937?style=flat-square&logo=github&logoColor=E5E7EB" /></a></summary>
 
 <br/>
 
-> **Social graph meets production infrastructure.** Developer relationships modelled as a bi-directional graph, BFS-traversed via MongoDB aggregation pipelines. Sub-200ms match lookups across 10,000+ profiles.
+> **Social graph meets production infrastructure.** Developer relationships modelled as a bi-directional graph, BFS-traversed via MongoDB aggregation pipelines, with real-time chat over Socket.io.
 
 | Attribute | Detail |
 |:--|:--|
-| **Stack** | Node.js · MongoDB · React · JWT · HTTP-only Cookies |
+| **Stack** | React · Node.js · Express.js · MongoDB · Socket.io · JWT · HTTP-only Cookies |
 | **Scale** | 10,000+ developer profiles · distributed storage indexing |
 | **Performance** | Sub-200ms match lookups · **3× improvement** over full-collection scans |
 | **Security** | Silent token refresh via HTTP-only cookies · 100% route coverage · stateless arch |
 | **Impact** | Graph-native aggregation pipeline replacing O(n) scan patterns entirely |
 
-Connection relationships modelled as a bi-directional graph with BFS-based MongoDB aggregation pipelines for traversal — algorithmic graph theory translated directly into production data access patterns. Silent token refresh secures all routes without shared session state.
+Connection relationships modelled as a bi-directional graph with BFS-based MongoDB aggregation pipelines for traversal — algorithmic graph theory translated directly into production data access patterns. Real-time messaging and match updates run over Socket.io; silent token refresh secures all routes without shared session state. Evolved from an initial bootcamp-style clone into a differentiated build with glassmorphism UI, Framer Motion animations, and richer profile/social fields.
 
 <br/>
 </details>
@@ -155,21 +155,21 @@ Connection relationships modelled as a bi-directional graph with BFS-based Mongo
 <br/>
 
 <details>
-<summary>&nbsp;&nbsp;<b>◫ &nbsp;Wanderlust — Property Booking Backend</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/sonichanchal702/wanderlust"><img src="https://img.shields.io/badge/View%20Repo-1F2937?style=flat-square&logo=github&logoColor=E5E7EB" /></a></summary>
+<summary>&nbsp;&nbsp;<b>◫ &nbsp;Nestora — Vacation Rental Platform Backend</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/sonichanchal702/Nestora_Vacation_Rental_Platform"><img src="https://img.shields.io/badge/View%20Repo-1F2937?style=flat-square&logo=github&logoColor=E5E7EB" /></a></summary>
 
 <br/>
 
-> **Production-hardened REST API.** 40+ automated tests, strict MVC separation, compound indexing, zero regressions across all release cycles.
+> **Server-rendered listings backend.** A vacation rental booking platform (renamed from Wanderlust) built on Express and EJS, with cloud-hosted media and geolocation.
 
 | Attribute | Detail |
 |:--|:--|
-| **Stack** | Node.js · Express.js · MongoDB · Mongoose ODM · Jest · Supertest |
-| **Scale** | 15+ REST endpoints · MVC architecture · schema-level validation |
-| **Performance** | Query optimization **+35%** via compound indexes across all data flows |
-| **Security** | Auth flow coverage · input validation · schema-enforced write integrity |
-| **Impact** | 40+ tests · **15+ pre-release bugs caught** · zero regressions |
+| **Stack** | Node.js · Express.js · EJS · MongoDB Atlas · Mongoose ODM · Passport.js · Cloudinary · Mapbox |
+| **Data** | Cloud-hosted database via MongoDB Atlas |
+| **Media** | Image upload and storage via Cloudinary |
+| **Location** | Listing geolocation and map display via Mapbox |
+| **Auth** | Session-based authentication with Passport.js |
 
-Strict MVC separation, Mongoose schema-level validation eliminating invalid writes, compound indexes across all query-critical paths. The 40+ test suite covers auth flows, booking edge cases, and regression paths — production-grade discipline applied at project level.
+Server-rendered CRUD backend for property listings, with Passport.js-based authentication, Cloudinary-backed image uploads, and Mapbox integration for listing locations. Currently being hardened for production deployment.
 
 <br/>
 </details>
@@ -344,7 +344,7 @@ learning:
 building:
   - Production SaaS backends with async job queues
   - Graph-based social features via BFS/DFS aggregation
-  - Stateless auth systems with zero session overhead
+  - Server-rendered booking platform (Nestora) — cloud DB, media, geolocation
 
 exploring:
   - AWS Lambda + EC2 for cloud-native deployments
