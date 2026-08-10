@@ -1,10 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=220&section=header&text=Chanchal%20Soni&fontSize=56&fontColor=FFFFFF&animation=scaleIn&fontAlignY=40&desc=Software%20Development%20Engineer%20%E2%80%94%20Full-Stack%20%26%20Backend%20Systems&descAlignY=65&descSize=16&descColor=E2E8F0)
+<h1><b>Chanchal Soni</b></h1>
+<p><b>Software Development Engineer — Full-Stack & Backend Systems</b></p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=475569&background=F8FAFC00&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=48&lines=Full-Stack+%2B+Backend+Engineer+%C2%B7+BCA+2026+Graduate;Sole+Engineer+at+Infosys+Springboard+%E2%80%94+Shipped+Track+SaaS;300%2B+LeetCode+Solved+%C2%B7+200-Day+Unbroken+Streak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=94A3B8&background=F8FAFC00&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=48&lines=Full-Stack+%2B+Backend+Engineer+%C2%B7+BCA+2026+Graduate;Sole+Engineer+at+Infosys+Springboard+%E2%80%94+Shipped+Track+SaaS;300%2B+LeetCode+Solved+%C2%B7+200-Day+Unbroken+Streak)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,15 +30,9 @@
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=334155&height=3&section=header)
-
-<br/>
+<hr/>
 
 ## `◈` &nbsp;About Me
-
-<img align="right" width="385" src="https://github-readme-stats.vercel.app/api?username=sonichanchal702&show_icons=true&hide_border=false&border_color=334155&bg_color=1E293B&title_color=E2E8F0&icon_color=94A3B8&text_color=CBD5E1&ring_color=475569&count_private=true&custom_title=GitHub+Activity" />
 
 Software Development Engineer (BCA, May 2026) specializing in **Full-Stack Systems**, **REST API Design**, and **LLM Integrations**. Shipped an agency management platform end-to-end as sole engineer during a 3-month internship at **Infosys Springboard**.
 
