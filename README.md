@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,3,6,9,12&height=220&section=header&text=Chanchal%20Soni&fontSize=56&fontColor=FFFFFF&animation=scaleIn&fontAlignY=40&desc=Software%20Development%20Engineer%20%E2%80%94%20Full-Stack%20%26%20Backend%20Systems&descAlignY=65&descSize=16&descColor=E2E8F0)
+![header](https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=220&section=header&text=Chanchal%20Soni&fontSize=56&fontColor=FFFFFF&animation=scaleIn&fontAlignY=40&desc=Software%20Development%20Engineer%20%E2%80%94%20Full-Stack%20%26%20Backend%20Systems&descAlignY=65&descSize=16&descColor=E2E8F0)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,6,9,12&height=3&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=334155&height=3&section=header)
 
 <br/>
 
