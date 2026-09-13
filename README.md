@@ -40,37 +40,74 @@
 
 <br/>
 
-## `◈` &nbsp;~About
+## `◈` &nbsp;About
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=sonichanchal702&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=64748B&text_color=94A3B8&ring_color=334155&count_private=true&custom_title=GitHub+Activity&border_radius=12" />
+<br/>
 
-MCA '28 at **SGSITS, Indore** — building on a BCA (CGPA 9.2) and a production track record that started before graduation.
+<table>
+<tr>
+<td valign="top" width="55%">
 
-Shipped **Track** — a multi-tenant agency SaaS — as the **sole engineer** at Infosys Springboard. System architecture, REST APIs, RBAC auth, CI/CD: zero to production in 90 days. The numbers: **P95 latency −40%**, attack surface **−95%**, **70% less** reporting overhead.
+**`// who`**
 
-Algorithms aren't interview prep here — BFS-based MongoDB aggregation pipelines in **Vibe Hustlers** deliver sub-200ms match lookups across 10,000+ profiles because the graph theory was applied, not performed.
+**Chanchal Soni** — Full-Stack & Backend Engineer.
+MCA '28 · **SGSITS, Indore** &nbsp;|&nbsp; BCA · CGPA **9.2 / 10** · Mandsaur University.
 
-**300+ LeetCode problems solved. 200-day unbroken streak.** Medium 50%, Hard 10%.
+Production track record that started before graduation — not because it was required, but because building is the point.
 
-Currently grinding **DSA in Java**, scaling up in **MERN**, exploring **AI integrations** and **Cloud Computing fundamentals**, and levelling up in **System Design** — one layer at a time.
+<br/>
+
+**`// what I shipped`**
+
+**Track SaaS** at Infosys Springboard.
+Own the whole board: architecture → APIs → auth → CI/CD → deploy.
+**90 days. Zero to production.**
+
+BFS-based MongoDB aggregation in **Vibe Hustlers** → sub-200ms lookups across **10,000+ profiles**. Compound indexing in **Track** → **P95 latency −40%**, zero infra changes.
+
+Code that doesn't just work — **code that holds**.
+
+<br/>
+
+**`// by the numbers`**
+
+| | |
+|:--|:--|
+| 🟦 LeetCode | Solving problems - Java |
+| 🚀 Delivery | SaaS shipped in **90 days**|
+| ⚡ Latency | **P95 −40%** · no infrastructure changes |
+| 🔒 Security | Attack surface **−95%** · stateless auth |
+| 📚 Academic | **CGPA 9.2 / 10** · BCA · Mandsaur University |
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sonichanchal702&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=64748B&text_color=94A3B8&ring_color=334155&count_private=true&custom_title=GitHub+Activity&border_radius=12" width="100%" />
 
 <br/>
 
 ```yaml
-# $ cat sonichanchal702.yaml
+# sonichanchal702.yaml
 
-currently:
-  degree    : MCA  →  SGSITS, Indore  (2026–2028)
-  learning  : DSA (Java) · MERN · AI · Cloud Computing · System Design
-  optimizing: scalable patterns · clean code · production correctness
+degree:
+  MCA → SGSITS, Indore · 2026–2028
+
+learning:
+  - DSA (Java)        # daily grind
+  - MERN Stack        # full-stack depth
+  - AI & LLM          # applied, not theoretical
+  - Cloud Computing   # fundamentals → AWS
+  - System Design     # beginner → intermediate
 
 shipped:
-  - Track SaaS      →  Infosys Springboard  ·  sole engineer  ·  90 days
-  - Vibe Hustlers      →  graph-native MERN matching platform
-  - Nestora      →  production REST API  ·  40+ automated tests
+  Track        → Infosys · sole eng · 90 days
+  Vibe Hustlers→ 10K+ profiles · <200ms
+  Nestora      → 40+ tests · 0 regressions
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
