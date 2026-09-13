@@ -48,8 +48,6 @@
 <tr>
 <td valign="top" width="55%">
 
-**`// who`**
-
 **Chanchal Soni** — Full-Stack & Backend Engineer.
 MCA '28 · **SGSITS, Indore** &nbsp;|&nbsp; BCA · CGPA **9.2 / 10** · Mandsaur University.
 
@@ -68,8 +66,6 @@ BFS-based MongoDB aggregation in **Vibe Hustlers** → sub-200ms lookups across 
 Code that doesn't just work — **code that holds**.
 
 <br/>
-
-**`// by the numbers`**
 
 | | |
 |:--|:--|
