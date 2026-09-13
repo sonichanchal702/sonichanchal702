@@ -40,7 +40,7 @@
 
 <br/>
 
-## `◈` &nbsp;The Engineer
+## `◈` &nbsp;~About
 
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=sonichanchal702&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=64748B&text_color=94A3B8&ring_color=334155&count_private=true&custom_title=GitHub+Activity&border_radius=12" />
 
