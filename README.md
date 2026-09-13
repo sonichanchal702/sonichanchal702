@@ -212,7 +212,7 @@ shipped:
 <br/>
 
 <details>
-<summary>&nbsp;&nbsp;<b>◫ &nbsp;Nestora — Vacation Rental Platform</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sonichanchal702/wanderlust"><img src="https://img.shields.io/badge/source-1E293B?style=flat-square&logo=github&logoColor=94A3B8"/></a></summary>
+<summary>&nbsp;&nbsp;<b>◫ &nbsp;Nestora — Vacation Rental Platform</b> &nbsp;&nbsp;<code>2024</code> &nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sonichanchal702/Nestora_Vacation_Rental_Platform"><img src="https://img.shields.io/badge/source-1E293B?style=flat-square&logo=github&logoColor=94A3B8"/></a></summary>
 
 <br/>
 
